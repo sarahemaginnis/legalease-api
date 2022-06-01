@@ -1,3 +1,9 @@
 {
-    
+  "users": [
+    {
+      "name": "Sarah Maginnis",
+      "email": "sarahemaginnis@gmail.com",
+      "id": 1
+    }
+  ]
 }
