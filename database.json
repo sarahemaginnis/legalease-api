@@ -5,5 +5,94 @@
       "email": "sarahemaginnis@gmail.com",
       "id": 1
     }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Constitutional Law"
+    },
+    {
+      "id": 2,
+      "name": "Torts"
+    },
+    {
+      "id": 3,
+      "name": "Civil Procedure"
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "subjectId": 1,
+      "casebook": "Constitutional Law, 20th edition by Noah R. Feldman & Kathleen M. Sullivan"
+    },
+    {
+      "id": 2,
+      "subjectId": 2,
+      "casebook": "Prosser, Wade & Schwartz on Torts"
+    },
+    {
+      "id": 3,
+      "subjectId": 3,
+      "casebook": "Yeazell Civil Procedure"
+    }
+  ],
+  "parties": [
+    {
+      "id": 1,
+      "party": "Plaintiff"
+    },
+    {
+      "id": 2,
+      "party": "Defendant"
+    },
+    {
+      "id": 3,
+      "party": "Appellant"
+    },
+    {
+      "id": 4,
+      "party": "Appellee"
+    },
+    {
+      "id": 5,
+      "party": "Petitioner"
+    },
+    {
+      "id": 6,
+      "party": "Respondent"
+    },
+    {
+      "id": 7,
+      "party": "Amicus Curiae"
+    }
+  ],
+  "briefs": [
+    {
+      "creatorId": 1,
+      "partyOneRole": 1,
+      "partyTwoRole": 1,
+      "id": 1
+    },
+    {
+      "creatorId": 1,
+      "class": 2,
+      "casebook": 2,
+      "pageNumbers": 1,
+      "name": null,
+      "court": null,
+      "decisionDate": 1919,
+      "partyOneRole": 1,
+      "partyOneName": null,
+      "partyTwoRole": 2,
+      "partyTwoName": null,
+      "facts": null,
+      "proceduralHistory": null,
+      "issuesLaw": null,
+      "holding": null,
+      "rules": null,
+      "rationale": null,
+      "id": 2
+    }
   ]
 }
