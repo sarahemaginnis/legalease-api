@@ -70,13 +70,14 @@
   "briefs": [
     {
       "creatorId": 1,
+      "classId": 3,
       "partyOneRole": 1,
       "partyTwoRole": 1,
       "id": 1
     },
     {
       "creatorId": 1,
-      "class": 2,
+      "classId": 2,
       "casebook": 2,
       "pageNumbers": 1,
       "name": null,
@@ -93,6 +94,42 @@
       "rules": null,
       "rationale": null,
       "id": 2
+    },
+    {
+      "creatorId": 1,
+      "classId": 1,
+      "casebook": 1,
+      "pageNumbers": "3-5",
+      "name": "Party A v. Party B",
+      "issuesLaw": "example issue of law",
+      "holding": "example holding"
+    },
+    {
+      "creatorId": 1,
+      "classId": 2,
+      "casebook": 3,
+      "pageNumbers": "1-5",
+      "name": "Marbury v. Madison",
+      "court": "Supreme Court",
+      "decisionDate": "1818",
+      "citation": "Marbury v. Madison in the Supreme Court a long time ago",
+      "partyOneRole": 1,
+      "partyOneName": "Marbury",
+      "partyTwoRole": 2,
+      "partyTwoName": "Madison",
+      "facts": "A bunch of old white dudes fought over power",
+      "causeOfAction": "I don't remember",
+      "proceduralHistory": "Shit happened",
+      "issuesFact": "blah blah",
+      "issuesLaw": "bleh bleh",
+      "holding": "Enforced division of power between the three branches of government",
+      "rules": "Yay for separation of powers~",
+      "rationale": "Down with the monarchy!",
+      "proceduralDisposition": "Someone won, someone lost",
+      "concurringDissentingOpinions": "Not important",
+      "classDate": "2022-06-06",
+      "classNote": "Don't fall asleep in class",
+      "id": 3
     }
   ]
 }
