@@ -71,6 +71,7 @@
     {
       "creatorId": 1,
       "classId": 3,
+      "casebook": 1,
       "partyOneRole": 1,
       "partyTwoRole": 1,
       "id": 1
@@ -100,6 +101,8 @@
       "classId": 1,
       "casebook": 1,
       "pageNumbers": "3-5",
+      "partyOneRole": 1,
+      "partyTwoRole": 2,
       "name": "Party A v. Party B",
       "issuesLaw": "example issue of law",
       "holding": "example holding",
