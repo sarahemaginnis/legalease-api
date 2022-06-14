@@ -1,9 +1,9 @@
 {
   "users": [
     {
+      "id": 1,
       "name": "Sarah Maginnis",
-      "email": "sarahemaginnis@gmail.com",
-      "id": 1
+      "email": "sarahemaginnis@gmail.com"
     }
   ],
   "subjects": [
@@ -70,34 +70,6 @@
   "briefs": [
     {
       "creatorId": 1,
-      "classId": 3,
-      "casebook": 1,
-      "partyOneRole": 1,
-      "partyTwoRole": 1,
-      "id": 1
-    },
-    {
-      "creatorId": 1,
-      "classId": 2,
-      "casebook": 2,
-      "pageNumbers": 1,
-      "name": null,
-      "court": null,
-      "decisionDate": 1919,
-      "partyOneRole": 1,
-      "partyOneName": null,
-      "partyTwoRole": 2,
-      "partyTwoName": null,
-      "facts": null,
-      "proceduralHistory": null,
-      "issuesLaw": null,
-      "holding": null,
-      "rules": null,
-      "rationale": null,
-      "id": 2
-    },
-    {
-      "creatorId": 1,
       "classId": 1,
       "casebook": 1,
       "pageNumbers": "3-5",
@@ -134,6 +106,15 @@
       "classDate": "2022-06-06",
       "classNote": "Don't fall asleep in class",
       "id": 4
+    }
+  ],
+  "messages": [
+    {
+      "creatorId": 1,
+      "name": "Sarah Maginnis",
+      "email": "sarahemaginnis@gmail.com",
+      "message": "This is a test message!",
+      "id": 1
     }
   ]
 }
