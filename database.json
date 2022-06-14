@@ -106,6 +106,33 @@
       "classDate": "2022-06-06",
       "classNote": "Don't fall asleep in class",
       "id": 4
+    },
+    {
+      "creatorId": 1,
+      "id": 5,
+      "classId": 2,
+      "casebook": 2,
+      "pageNumbers": "25-40",
+      "name": "Child Who Pulled Chair Out from Under Adult",
+      "court": "I forget",
+      "decisionDate": "1970s",
+      "citation": "",
+      "partyOneRole": 1,
+      "partyOneName": "Adult",
+      "partyTwoRole": 2,
+      "partyTwoName": "Child",
+      "facts": "A minor child pulled the chair out from underneath an adult, injuring the adult. the adult sued the parents of the child and the child itself.",
+      "causeOfAction": "Negligence",
+      "proceduralHistory": "Procedural history is boring and for the dummies.",
+      "issuesFact": "Here's a test factual issue",
+      "issuesLaw": "Can a child be sued and held responsible for negilgence?",
+      "holding": "Yes - reasonably prudent person of the age of the child (basically, if a normal kid of that age would have known better then they're responsible)",
+      "rules": "",
+      "rationale": "Reasonably prudent person standard",
+      "proceduralDisposition": "",
+      "concurringDissentingOpinions": "",
+      "classDate": "2022-06-13",
+      "classNote": "Twas boring"
     }
   ],
   "messages": [
